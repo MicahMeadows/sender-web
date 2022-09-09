@@ -1,7 +1,6 @@
 {
   "hosting": {
-    "site": "sender12345",
-    "public": "public",
+    "public": "sender/sender/build/web",
     "ignore": [
       "firebase.json",
       "**/.*",
